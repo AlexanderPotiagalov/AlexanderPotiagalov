@@ -8,7 +8,7 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 📫 apa168@sfu.ca
 
 ### 📄 Resume  
-[![Resume](https://img.shields.io/badge/-My%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_2025 (1).pdf)
+[![Resume](https://img.shields.io/badge/-My%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Resume_2025.pdf)
 
 ---
 
@@ -62,11 +62,6 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 ## 📊 GitHub Stats  
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPotiagalov&layout=compact&theme=tokyonight)
----
-
-## 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexanderPotiagalov&theme=tokyo-night)](https://github.com/AlexanderPotiagalov)
-
 ---
 
 ## 🧮 Visitor Count
