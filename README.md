@@ -1,6 +1,6 @@
 # Hi there, I'm Alexander Potiagalov 👋
 
-I'm a Computer Science student and passionate full-stack developer from Vancouver, BC. I thrive at the intersection of AI, software engineering, and business—building tools that make job seeking, investing, and everyday interaction smarter.
+I'm a Computer Science student at SFU and passionate full-stack developer from Vancouver, BC. I thrive at the intersection of AI, software engineering, and business—building tools that make job seeking, investing, and everyday interaction smarter.
 
 ### 🌐 Connect with me
 [🌍 Portfolio](https://alexanderpotiagalov.github.io) • 
@@ -59,14 +59,5 @@ I'm a Computer Science student and passionate full-stack developer from Vancouve
 ## 📊 GitHub Stats  
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPotiagalov&layout=compact&theme=tokyonight)
-
----
-
-## 💼 Pinned Projects
-Here are a few cool things I’ve built:
-- 🔹 [ResuMate](https://github.com/AlexanderPotiagalov) – AI-powered resume and job matcher (React, OpenAI, JSearch)
-- 🔹 [Photon-Dash](https://github.com/AlexanderPotiagalov/Photon-Dash.git) – 2D browser game in JS/HTML/CSS
-- 🔹 [VacuumCleanerAIAgent](https://github.com/AlexanderPotiagalov/VacuumCleanerAIAgent.git) – Pathfinding AI with A*, BFS, DFS
-- 🔹 [AVL Tree](https://github.com/AlexanderPotiagalov/CS-projects.git) – Self-balancing BST in C++
-
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AlexanderPotiagalov)
 ---
