@@ -36,6 +36,7 @@ jobs:
           plugin_repositories: yes
           plugin_ratings: yes         # Contribution scorecard
           plugin_ratings_animations: yes
+          plugin_ratings_theme: neon 
 
           # Display settings
           config_timezone: America/Vancouver
