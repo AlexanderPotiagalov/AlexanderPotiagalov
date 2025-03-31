@@ -38,10 +38,10 @@ jobs:
           plugin_repositories: yes
 
           plugin_ratings: yes
-          plugin_ratings_theme: soft
           plugin_ratings_animations: yes
           plugin_ratings_indepth: yes
           plugin_ratings_sections: stars, commits, prs, issues, contributions
+          plugin_ratings_theme: github
 
           # Display settings
           config_timezone: America/Vancouver
