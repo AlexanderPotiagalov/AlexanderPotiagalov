@@ -3,16 +3,19 @@
 I'm a Computer Science student at SFU and passionate full-stack developer from Vancouver, BC. I thrive at the intersection of AI, software engineering, and business—building tools that make job seeking, investing, and everyday interaction smarter.
 
 ### 🌐 Connect with me
-[🌍 Portfolio](https://alexanderpotiagalov.github.io) • 
-[💼 LinkedIn](https://linkedin.com/in/alexander-potiagalov) • 
+
+[🌍 Portfolio](https://alexanderpotiagalov.github.io) •
+[💼 LinkedIn](https://linkedin.com/in/alexander-potiagalov) •
 📫 apa168@sfu.ca
 
-### 📄 Resume  
-[![Resume](https://img.shields.io/badge/-My%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Resume_2025.pdf)
+### 📄 Resume
+
+[![Resume](https://img.shields.io/badge/-My%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_2025.pdf)
 
 ---
 
-## 🧠 Languages  
+## 🧠 Languages
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c&logoColor=A8B9CC)
@@ -24,7 +27,8 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 
 ---
 
-## 🧰 Technologies & Frameworks  
+## 🧰 Technologies & Frameworks
+
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -37,7 +41,8 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 
 ---
 
-## 🔌 APIs & Integrations  
+## 🔌 APIs & Integrations
+
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-000000?style=flat)
 ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white)
@@ -48,7 +53,8 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 
 ---
 
-## ⚙️ Tools & DevOps  
+## ⚙️ Tools & DevOps
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
@@ -59,11 +65,13 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPotiagalov&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🧮 Visitor Count
-<img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor badge"/>
 
+<img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor badge"/>
