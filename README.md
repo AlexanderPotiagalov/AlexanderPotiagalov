@@ -69,7 +69,6 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPotiagalov&layout=compact&theme=tokyonight)
-![Metrics](https://metrics.lecoq.io/AlexanderPotiagalov?template=activity&base=header%2Cactivity%2Crepositories&config.timezone=America%2FVancouver)
 
 ---
 
