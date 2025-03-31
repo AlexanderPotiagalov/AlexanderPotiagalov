@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.33
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
