@@ -73,6 +73,12 @@ I'm a Computer Science student at SFU and passionate full-stack developer from V
 
 ---
 
+## 📊 GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/AlexanderPotiagalov/AlexanderPotiagalov/main/metrics.svg" alt="GitHub Metrics" />
+
+---
+
 ## 🧮 Visitor Count
 
 <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor badge"/>
