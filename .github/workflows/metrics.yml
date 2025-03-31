@@ -1,0 +1,22 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]  # Every day at midnight UTC
+  workflow_dispatch:              # Allow manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          config_timezone: America/Vancouver
