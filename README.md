@@ -1,6 +1,13 @@
-# Hi there, I'm Alexander Potiagalov 👋
+<!-- Typing Intro Section -->
+<div align="center">
 
-I'm a Computer Science student at SFU and passionate full-stack developer from Vancouver, BC. I thrive at the intersection of AI, software engineering, and business—building tools that make job seeking, investing, and everyday interaction smarter.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Alexander+Potiagalov+%F0%9F%91%8B;I'm+a+Computer+Science+student+at+SFU;Passionate+about+AI%2C+Software+Dev+%26+Business;Building+smarter+tools+for+job+seeking%2C+investing+%26+life)](https://github.com/AlexanderPotiagalov)
+
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 ### 🌐 Connect with me
 
