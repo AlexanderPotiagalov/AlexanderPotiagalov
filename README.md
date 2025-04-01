@@ -5,6 +5,8 @@
 
 </div>
 
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="coding gif" />
 </p>
@@ -88,9 +90,3 @@
 ## 🧮 Visitor Count
 
 <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor badge"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AlexanderPotiagalov/AlexanderPotiagalov/output/github-contribution-grid-snake.svg" />
-</div>
