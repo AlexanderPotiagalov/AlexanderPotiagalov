@@ -34,6 +34,9 @@
 
   </tr>
 </table>
+
+<br>
+
 ---
 
 ## 🧠 Languages
