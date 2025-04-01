@@ -7,20 +7,33 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="coding gif" />
-</p>
+<table>
+  <tr>
+    <td>
 
-### 🌐 Connect with me
+      <h3>🌐 Connect with me</h3>
 
-[🌍 Portfolio](https://alexanderpotiagalov.github.io) •
-[💼 LinkedIn](https://linkedin.com/in/alexander-potiagalov) •
-📫 apa168@sfu.ca
+      <p>
+        <a href="https://alexanderpotiagalov.github.io">🌍 Portfolio</a> •
+        <a href="https://linkedin.com/in/alexander-potiagalov">💼 LinkedIn</a> •
+        <a href="mailto:apa168@sfu.ca">📫 apa168@sfu.ca</a>
+      </p>
 
-### 📄 Resume
+      <h3>📄 Resume</h3>
+      <p>
+        <a href="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_2025.pdf">
+          <img src="https://img.shields.io/badge/-My%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Resume badge" />
+        </a>
+      </p>
 
-[![Resume](https://img.shields.io/badge/-My%20Resume-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_2025.pdf)
+    </td>
 
+    <td align="right">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" alt="coding gif" />
+    </td>
+
+  </tr>
+</table>
 ---
 
 ## 🧠 Languages
