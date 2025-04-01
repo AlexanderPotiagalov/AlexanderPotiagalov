@@ -92,5 +92,5 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/AlexanderPotiagalov/AlexanderPotiagalov/output/github-contribution-grid-snake.svg" />
 </div>
