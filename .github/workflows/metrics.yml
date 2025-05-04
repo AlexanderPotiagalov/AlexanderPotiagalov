@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@main
         with:
           filename: metrics.svg
 
