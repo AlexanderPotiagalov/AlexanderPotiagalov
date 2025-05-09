@@ -45,10 +45,20 @@ jobs:
 
       - name: Commit & push metrics.svg
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 1) set your name & no-reply email
+          git config user.name  "AlexanderPotiagalov"
+          git config user.email "12345678+AlexanderPotiagalov@users.noreply.github.com"
+
+          # 2) sync to the latest main
+          git fetch origin main
+          git reset --hard origin/main
+
+          # 3) stage & force an empty-commit
           git add metrics.svg
           git commit --allow-empty -m "chore: daily metrics update"
-          git push
+
+          # 4) push it back
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
