@@ -1,7 +1,9 @@
 <!-- Header Section with Dynamic SVG -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Alexander+Potiagalov+%7C+Software+Engineer;Full-Stack+Developer+%7C+AI+Enthusiast;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://github.com/AlexanderPotiagalov)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:2563EB&height=300&section=header&text=Alexander%20Potiagalov&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Specialist%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Building+intelligent+systems+that+matter;Turning+complexity+into+elegant+solutions;Where+engineering+meets+innovation+%F0%9F%9A%80;Developing+the+future%2C+1+commit+at+a+time)](https://github.com/AlexanderPotiagalov)
 
 <a href="https://alexanderpotiagalov.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
@@ -206,14 +208,67 @@ graph TD
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Analytics
 
+<!-- GITHUB STATISTICS: Visual analytics with enhanced design -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <em>A visual representation of my GitHub activity and contributions</em>
+</p>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=buefy&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="450px" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=buefy&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117" width="450px" />
+  </picture>
 </div>
 
-<!-- GitHub Activity Graph -->
+<br>
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderPotiagalov&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderPotiagalov&bg_color=0D1117&color=38BDAE&line=2563EB&point=FFFFFF&area=true&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderPotiagalov&bg_color=FFFFFF&color=118D9C&line=4C71F2&point=118D9C&area=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexanderPotiagalov&bg_color=0D1117&color=38BDAE&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="95%" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=AlexanderPotiagalov&theme=algolia&no-frame=true&row=1&column=7"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=AlexanderPotiagalov&theme=flat&no-frame=true&row=1&column=7"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=AlexanderPotiagalov&theme=algolia&no-frame=true&row=1&column=7" width="95%" />
+  </picture>
 </div>
 
 <!-- Metrics Section -->
@@ -223,10 +278,39 @@ graph TD
   <img width="100%" src="https://raw.githubusercontent.com/AlexanderPotiagalov/AlexanderPotiagalov/main/metrics.svg" alt="GitHub Metrics" />
 </div>
 
-<!-- Visitor Count -->
-## 🧮 Visitor Count
+<!-- VISITOR COUNTER: Interactive element -->
+<h2 align="center">👥 Visitor Counter</h2>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor badge" style="border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.2);" width="25%"/>
+  <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor counter" style="height: 40px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+</div>
+
+<!-- CONNECT WITH ME: Interactive call-to-action -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <em>I'm always open to interesting conversations and collaboration opportunities</em>
+</p>
+
+<div align="center">
+  <a href="https://linkedin.com/in/alexander-potiagalov" target="_blank">
+    <img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="mailto:apa168@sfu.ca" target="_blank">
+    <img src="https://img.shields.io/badge/Email_me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
+  </a>
+  <a href="https://github.com/AlexanderPotiagalov" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+  </a>
+</div>
+
+<!-- CODING QUOTE: Inspirational element -->
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote">
+  </picture>
 </div>
 
 <!-- Footer -->
@@ -234,4 +318,9 @@ graph TD
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%"/>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
