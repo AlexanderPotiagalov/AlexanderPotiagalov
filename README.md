@@ -318,13 +318,11 @@ graph TD
 </div>
 
 <!-- Footer -->
-<img src="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/assets/borderseparator.gif" width="100%"/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%"/>
-</div>
-
-<br>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
