@@ -215,6 +215,11 @@ graph TD
   <em>A visual representation of my GitHub activity and contributions</em>
 </p>
 
+<p align="center">
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexanderPotiagalov&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexanderPotiagalov&theme=moltack"  />
+</p>
+
 <div align="center">
   <picture>
     <source 
@@ -225,7 +230,7 @@ graph TD
       srcset="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=buefy&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="450px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexanderPotiagalov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" />
   </picture>
   
   <picture>
@@ -237,7 +242,7 @@ graph TD
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=buefy&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117" width="450px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117" width="40%" />
   </picture>
 </div>
 
@@ -278,13 +283,6 @@ graph TD
   <img width="100%" src="https://raw.githubusercontent.com/AlexanderPotiagalov/AlexanderPotiagalov/main/metrics.svg" alt="GitHub Metrics" />
 </div>
 
-<!-- VISITOR COUNTER: Interactive element -->
-<h2 align="center">👥 Visitor Counter</h2>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor counter" style="height: 40px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-</div>
-
 <!-- CONNECT WITH ME: Interactive call-to-action -->
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -306,11 +304,31 @@ graph TD
 
 <!-- CODING QUOTE: Inspirational element -->
 <br>
+
+<div align="center" style="margin: 40px 0;">
+  <table>
+    <tr>
+      <td width="150px">
+        <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="120px" height="120px" style="border-radius: 10px;">
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote">
+        </picture>
+      </td>
+      <td width="150px">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="120px" height="120px" style="border-radius: 10px;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- VISITOR COUNTER: Interactive element -->
+<h2 align="center">👥 Visitor Counter</h2>
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote">
-  </picture>
+  <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor counter" style="height: 30px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
 </div>
 
 <!-- Footer -->
