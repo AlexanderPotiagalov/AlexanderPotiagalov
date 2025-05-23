@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
-  workflow_dispatch:      # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -15,21 +15,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-          
-      - name: Create Assets Directory
-        run: mkdir -p assets
-          
-      - name: Download Border Separator 
-        run: |
-          curl -o assets/borderseparator.gif "https://raw.githubusercontent.com/trinib/trinib/a5f2e3208fe96799e32a82f1d2ff3535dfa29124/assets/borderseparator.gif"
-          
-      - name: Generate GitHub Metrics
+
+      - name: Generate Calendar-Only Metrics
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
-          
-          # Extended stats
+
+          # <-- zero out all core metrics -->
+          base: ""
+
+          # <-- only render the isometric calendar -->
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
