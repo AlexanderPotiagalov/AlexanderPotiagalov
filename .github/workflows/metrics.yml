@@ -30,8 +30,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           
-          # Activity overview
-          plugin_traffic: yes
-          
-          # Commit calendar
-          plugin_calendar: yes
+          # Extended stats
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
