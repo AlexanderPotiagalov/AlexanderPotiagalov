@@ -241,8 +241,6 @@ graph TD
   </picture>
 </div>
 
-<br>
-
 <div align="center">
   <picture>
     <source 
@@ -271,13 +269,6 @@ graph TD
   </picture>
 </div>
 
-<!-- Metrics Section -->
-## 🧮 GitHub Metrics
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AlexanderPotiagalov/AlexanderPotiagalov/main/metrics.svg" alt="GitHub Metrics" />
-</div>
-
 <!-- CONNECT WITH ME: Interactive call-to-action -->
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -300,20 +291,20 @@ graph TD
 <!-- CODING QUOTE: Inspirational element -->
 <br>
 
-<div align="center" style="margin: 40px 0;">
+<div align="center" style="margin: 0;">
   <table>
     <tr>
       <td width="150px">
-        <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="120px" height="120px" style="border-radius: 10px;">
+        <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="140px" height="140px" style="border-radius: 10px;">
       </td>
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote">
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote" height="145px">
         </picture>
       </td>
       <td width="150px">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="120px" height="120px" style="border-radius: 10px;">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="140px" height="140px" style="border-radius: 10px;">
       </td>
     </tr>
   </table>
