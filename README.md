@@ -3,7 +3,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:2563EB&height=300&section=header&text=Alexander%20Potiagalov&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Specialist%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Building+intelligent+systems+that+matter;Turning+complexity+into+elegant+solutions;Where+engineering+meets+innovation+%F0%9F%9A%80;Developing+the+future%2C+1+commit+at+a+time)](https://github.com/AlexanderPotiagalov)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Building+intelligent+systems+that+matter;Turning+complexity+into+elegant+solutions;Where+engineering+meets+innovation;Developing+the+future%2C+1+commit+at+a+time)](https://github.com/AlexanderPotiagalov)
 
 <a href="https://alexanderpotiagalov.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/>
@@ -19,9 +19,6 @@
 </a>
 
 </div>
-
-<!-- Divider with animation -->
-<img src="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/assets/borderseparator.gif" width="100%"/>
 
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
