@@ -203,10 +203,8 @@ graph TD
 </details>
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
 <!-- GITHUB STATISTICS: Visual analytics with enhanced design -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">GitHub Analytics </h2>
 
 <p align="center">
   <em>A visual representation of my GitHub activity and contributions</em>
