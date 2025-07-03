@@ -130,24 +130,26 @@ graph TD
     A[APIs & Integrations] --> B[AI Models]
     A --> C[Payment Systems]
     A --> D[Data Services]
-    
+
     B --> B1[OpenAI API]
     B --> B2[Google Gemini]
-    
+    B --> B3[Vapi SDK]
+
     C --> C1[PayPal API]
-    
+
     D --> D1[REST APIs]
     D --> D2[JSearch API]
     D --> D3[Yfinance]
     D --> D4[FMP API]
     D --> D5[WhoisXML API]
     D --> D6[Google Safe Browsing API]
-    
+    D --> D7[Firebase]
+
     classDef apiNode fill:#3498db,stroke:#2980b9,stroke-width:2px,color:white;
     class B,C,D apiNode;
-    
+
     classDef serviceNode fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:white;
-    class B1,B2,C1,D1,D2,D3,D4,D5,D6 serviceNode;
+    class B1,B2,B3,C1,D1,D2,D3,D4,D5,D6,D7 serviceNode;
 ```
 
 </div>
