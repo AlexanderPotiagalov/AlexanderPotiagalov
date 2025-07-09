@@ -17,6 +17,7 @@
 <a href="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_May_2025.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=AlexanderPotiagalov&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -312,12 +313,7 @@ graph TD
   </table>
 </div>
 
-<!-- VISITOR COUNTER: Interactive element -->
-<h2 align="center">👥 Visitor Counter</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlexanderPotiagalov/count.svg" alt="visitor counter" style="height: 30px; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-</div>
 
 <!-- Footer -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
