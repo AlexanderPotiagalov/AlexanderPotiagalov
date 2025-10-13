@@ -14,7 +14,7 @@
 <a href="mailto:apa168@sfu.ca" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_May_2025.pdf" target="_blank">
+<a href="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_October_2025_Refined.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=AlexanderPotiagalov&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile Views" />
@@ -22,6 +22,7 @@
 </div>
 
 <!-- About Me Section -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
 <!-- Adjusted coder GIF to avoid overflow -->
@@ -35,6 +36,7 @@
 - ⚡ **Fun fact:** I enjoy building products that matter while drinking terrible coffee
 
 <!-- Tech Stack Section -->
+
 ## 🛠️ Technology Arsenal
 
 <details open>
@@ -312,8 +314,6 @@ graph TD
     </tr>
   </table>
 </div>
-
-
 
 <!-- Footer -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
