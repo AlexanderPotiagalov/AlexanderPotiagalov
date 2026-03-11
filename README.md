@@ -28,7 +28,7 @@
 <!-- Adjusted coder GIF to avoid overflow -->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="180" style="margin:0 0 1rem 1rem; max-width:100%;" />
 
-- 🔭 **Currently working on:** AI-powered applications and full-stack web development
+- 🔭 **Currently working:** Jr. Data Analyst at DFO (Department of Fisheries and Oceans Canada)
 - 🎓 **Education:** Computer Science at Simon Fraser University
 - 💼 **Experience:** Building end-to-end solutions with modern tech stacks
 - 🌱 **Currently learning:** Advanced AI models integration, System Design
@@ -198,8 +198,8 @@ graph TD
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Multer-000000?style=for-the-badge" alt="Multer" width="65" height="65"/>
-      <br>Multer
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" width="65" height="65"/>
+      <br>Azure
     </td>
   </tr>
 </table>
