@@ -260,20 +260,6 @@ graph TD
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-profile-trophy.vercel.app/?username=AlexanderPotiagalov&theme=algolia&no-frame=true&row=1&column=7"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-profile-trophy.vercel.app/?username=AlexanderPotiagalov&theme=flat&no-frame=true&row=1&column=7"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-profile-trophy.vercel.app/?username=AlexanderPotiagalov&theme=algolia&no-frame=true&row=1&column=7" width="95%" />
-  </picture>
-</div>
-
 <!-- CONNECT WITH ME: Interactive call-to-action -->
 <h2 align="center">🤝 Let's Connect</h2>
 
