@@ -14,7 +14,7 @@
 <a href="mailto:apa168@sfu.ca" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_October_2025_Refined.pdf" target="_blank">
+<a href="https://github.com/AlexanderPotiagalov/AlexanderPotiagalov/blob/main/Alexander_Potiagalov_Official_Resume_2026_Coop.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=AlexanderPotiagalov&label=Profile%20Views&color=38BDAE&style=for-the-badge" alt="Profile Views" />
