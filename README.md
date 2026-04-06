@@ -1,7 +1,7 @@
 <!-- Header Section with Dynamic SVG -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:2563EB&height=300&section=header&text=Alexander%20Potiagalov&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Specialist%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,100:2563EB&height=300&section=header&text=Alexander%20Potiagalov&fontColor=FFFFFF&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20Enthusiast%20|%20Full-Stack%20Developer%20|%20CS%20@%20SFU&descAlignY=55&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=850&height=70&lines=Building+intelligent+systems+that+matter;Turning+complexity+into+elegant+solutions;Where+engineering+meets+innovation;Developing+the+future%2C+1+commit+at+a+time)](https://github.com/AlexanderPotiagalov)
 
