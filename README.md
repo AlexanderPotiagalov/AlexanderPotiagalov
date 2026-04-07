@@ -28,9 +28,9 @@
 <!-- Adjusted coder GIF to avoid overflow -->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="180" style="margin:0 0 1rem 1rem; max-width:100%;" />
 
-- 🔭 **Currently working:** Jr. Data Analyst at DFO (Department of Fisheries and Oceans Canada)
+- 🔭 **Currently working:** Founding Engineer / Software Developer @ Subtura
+- 💼 **Previous experience:** SDE Intern @ Fisheries and Oceans Canada
 - 🎓 **Education:** Computer Science at Simon Fraser University
-- 💼 **Experience:** Building end-to-end solutions with modern tech stacks
 - 🌱 **Currently learning:** Advanced AI models integration, System Design
 - 🚀 **Passionate about:** Clean code, automation, and startups
 - ⚡ **Fun fact:** I enjoy building products that matter while drinking terrible coffee
