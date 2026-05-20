@@ -29,7 +29,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="180" style="margin:0 0 1rem 1rem; max-width:100%;" />
 
 - 🔭 **Currently working:** Founding Engineer / Software Developer @ Subtura & ML + Cybersecurity Research at SFU
-- 💼 **Previous experience:** SDE Intern @ Fisheries and Oceans Canada
+- 💼 **Previous experience:** SDE Intern @ Fisheries and Oceans Canada (GoC)
 - 🎓 **Education:** Computer Science at Simon Fraser University
 - 🌱 **Currently learning:** Advanced AI models integration, System Design
 - 🚀 **Passionate about:** Clean code, automation, and startups
