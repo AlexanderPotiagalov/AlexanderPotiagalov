@@ -28,12 +28,13 @@
 <!-- Adjusted coder GIF to avoid overflow -->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="180" style="margin:0 0 1rem 1rem; max-width:100%;" />
 
-- 🔭 **Currently working:** Founding Engineer / Software Developer @ Subtura & ML + Cybersecurity Research at SFU
-- 💼 **Previous experience:** SDE Intern @ Fisheries and Oceans Canada (GoC)
-- 🎓 **Education:** Computer Science at Simon Fraser University
-- 🌱 **Currently learning:** Advanced AI models integration, System Design
-- 🚀 **Passionate about:** Clean code, automation, and startups
-- ⚡ **Fun fact:** I enjoy building products that matter while drinking terrible coffee
+- 💼 **Incoming:** AI Software Engineer Co-op @ **Solidigm**
+- 🧱 **Building:** Founding Engineer / Software Developer @ **Subtura**
+- 🔎 **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University**
+- 🎓 **Studying:** Computer Science @ **Simon Fraser University**
+- 🧠 **Exploring:** Advanced AI systems, MLOps, and system design
+- ⚙️ **Focused on:** AI engineering, automation, cybersecurity, and developer tools
+- ☕ **Fun fact:** I build useful products, usually with terrible coffee nearby
 
 <!-- Tech Stack Section -->
 
