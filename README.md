@@ -26,7 +26,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
 <!-- Adjusted coder GIF to avoid overflow -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="180" style="margin:0 0 1rem 1rem; max-width:100%;" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%" height="30%" style="margin:0 0 1rem 1rem; max-width:100%;" />
 
 - 💼 **Incoming:** AI Software Engineer Co-op @ **Solidigm**
 - 🧱 **Building:** Founding Engineer / Software Developer @ **Subtura**
