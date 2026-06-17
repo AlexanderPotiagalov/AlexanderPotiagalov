@@ -28,13 +28,14 @@
 <!-- Adjusted coder GIF to avoid overflow -->
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%" height="30%" style="margin:0 0 1rem 1rem; max-width:100%;" />
 
-- 💼 **Incoming:** AI Software Engineer Co-op @ **Solidigm**
-- 🧱 **Building:** Founding Engineer / Software Developer @ **Subtura**
-- 🔎 **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University**
-- 🎓 **Studying:** Computer Science @ **Simon Fraser University**
-- 🧠 **Exploring:** Advanced AI systems, MLOps, and system design
-- ⚙️ **Focused on:** AI engineering, automation, cybersecurity, and developer tools
-- ☕ **Fun fact:** I build useful products, usually with terrible coffee nearby
+- **Incoming:** AI Software Engineer Co-op @ **Solidigm** <img src="https://d21buns5ku92am.cloudfront.net/69634/images/448438-solidigm-bug-logo-full-color-rgb-1000px%4072ppi-2624b9-original-1666306550.png" alt="Solidigm" height="18" />
+- **Building:** Founding Engineer / Software Developer @ **Subtura** <img src="https://www.google.com/s2/favicons?domain=subtura.com&sz=64" alt="Subtura" height="18" />
+- **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
+- **Studying:** Computer Science @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
+- **Previous:** SDE Intern @ **Fisheries and Oceans Canada (GoC)** <img src="https://www.dfo-mpo.gc.ca/images/splash/sig-spl.svg" alt="Fisheries and Oceans Canada" height="18" />
+- **Exploring:** Advanced AI systems, MLOps, and system design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" height="18" />
+- **Focused on:** AI engineering, automation, cybersecurity, and developer tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Developer Tools" height="18" />
+- **Fun fact:** I build useful products, usually with terrible coffee nearby ☕
 
 <!-- Tech Stack Section -->
 
