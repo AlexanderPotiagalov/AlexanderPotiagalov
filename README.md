@@ -32,7 +32,7 @@
 - **Building:** Founding Engineer / Software Developer @ **Subtura** <img src="https://www.google.com/s2/favicons?domain=subtura.com&sz=64" alt="Subtura" height="18" />
 - **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
 - **Studying:** Computer Science @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
-- **Previous:** SDE Intern @ **Fisheries and Oceans Canada (GoC)** <img src="https://www.dfo-mpo.gc.ca/images/splash/sig-spl.svg" alt="Fisheries and Oceans Canada" height="18" />
+- **Previous:** SDE Intern @ **Fisheries and Oceans Canada (GoC)** <img src="https://flagcdn.com/ca.svg" alt="Canada" height="14" />
 - **Exploring:** Advanced AI systems, MLOps, and system design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" height="18" />
 - **Focused on:** AI engineering, automation, cybersecurity, and developer tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Developer Tools" height="18" />
 - **Fun fact:** I build useful products, usually with terrible coffee nearby ☕
