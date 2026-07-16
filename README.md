@@ -25,8 +25,23 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-<!-- Adjusted coder GIF to avoid overflow -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="30%" height="30%" style="margin:0 0 1rem 1rem; max-width:100%;" />
+<!-- Adjusted ASCII portrait to avoid overflow -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/ascii-portrait-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="./assets/ascii-portrait-light.svg"
+  />
+  <img
+    align="right"
+    src="./assets/ascii-portrait-light.svg"
+    alt="ASCII portrait of Alexander Potiagalov"
+    width="30%"
+  />
+</picture>
 
 - 💼 **Incoming:** AI Software Engineer Co-op @ **Solidigm**
 - 🧱 **Building:** Founding Engineer / Software Developer @ **Subtura**
