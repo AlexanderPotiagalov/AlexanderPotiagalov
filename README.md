@@ -49,7 +49,7 @@
 - **Exploring:** Advanced AI systems, MLOps, and system design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" height="18" />
 - **Focused on:** AI engineering, automation, cybersecurity, and developer tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Developer Tools" height="18" />
 - **Fun fact:** I build useful products, usually with terrible coffee nearby ☕
-&nbsp;
+</br>
 
 ## 🛠️ Technology Arsenal
 
