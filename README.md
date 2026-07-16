@@ -43,6 +43,9 @@
   />
 </picture>
 
+</br>
+</br>
+
 - **Incoming:** AI Software Engineer Co-op @ **Solidigm** <img src="https://d21buns5ku92am.cloudfront.net/69634/images/448438-solidigm-bug-logo-full-color-rgb-1000px%4072ppi-2624b9-original-1666306550.png" alt="Solidigm" height="18" />
 - **Building:** Founding Engineer / Software Developer @ **Subtura** <img src="https://www.google.com/s2/favicons?domain=subtura.com&sz=64" alt="Subtura" height="18" />
 - **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
