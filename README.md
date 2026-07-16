@@ -30,7 +30,7 @@
   align="right"
   src="./assets/ascii-portrait-light.svg#gh-dark-mode-only"
   alt="ASCII portrait of Alexander Potiagalov"
-  width="220"
+  width="210"
 />
 
 <!-- Light GitHub theme: use the BLACK-character SVG -->
