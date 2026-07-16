@@ -28,15 +28,15 @@
 <!-- White ASCII portrait: dark GitHub theme only -->
 <img
   align="right"
-  src="./assets/ascii-portrait-dark.svg#gh-dark-mode-only"
+  src="./assets/ascii-portrait-light.svg#gh-dark-mode-only"
   alt="ASCII portrait of Alexander Potiagalov"
   width="220"
 />
 
-<!-- Black ASCII portrait: light GitHub theme only -->
+<!-- Light GitHub theme: use the BLACK-character SVG -->
 <img
   align="right"
-  src="./assets/ascii-portrait-light.svg#gh-light-mode-only"
+  src="./assets/ascii-portrait-dark.svg#gh-light-mode-only"
   alt="ASCII portrait of Alexander Potiagalov"
   width="220"
 />
