@@ -38,7 +38,7 @@
   align="right"
   src="./assets/ascii-portrait-dark.svg#gh-light-mode-only"
   alt="ASCII portrait of Alexander Potiagalov"
-  width="220"
+  width="210"
 />
 
 - **Incoming:** AI Software Engineer Co-op @ **Solidigm** <img src="https://d21buns5ku92am.cloudfront.net/69634/images/448438-solidigm-bug-logo-full-color-rgb-1000px%4072ppi-2624b9-original-1666306550.png" alt="Solidigm" height="18" />
@@ -49,7 +49,6 @@
 - **Exploring:** Advanced AI systems, MLOps, and system design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" height="18" />
 - **Focused on:** AI engineering, automation, cybersecurity, and developer tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Developer Tools" height="18" />
 - **Fun fact:** I build useful products, usually with terrible coffee nearby ☕
-</br>
 
 ## 🛠️ Technology Arsenal
 
