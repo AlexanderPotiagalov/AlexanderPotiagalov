@@ -25,7 +25,6 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-<!-- Adjusted ASCII portrait to avoid overflow -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -39,12 +38,9 @@
     align="right"
     src="./assets/ascii-portrait-light.svg"
     alt="ASCII portrait of Alexander Potiagalov"
-    width="30%"
+    width="220"
   />
 </picture>
-
-</br>
-</br>
 
 - **Incoming:** AI Software Engineer Co-op @ **Solidigm** <img src="https://d21buns5ku92am.cloudfront.net/69634/images/448438-solidigm-bug-logo-full-color-rgb-1000px%4072ppi-2624b9-original-1666306550.png" alt="Solidigm" height="18" />
 - **Building:** Founding Engineer / Software Developer @ **Subtura** <img src="https://www.google.com/s2/favicons?domain=subtura.com&sz=64" alt="Subtura" height="18" />
@@ -54,8 +50,6 @@
 - **Exploring:** Advanced AI systems, MLOps, and system design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" height="18" />
 - **Focused on:** AI engineering, automation, cybersecurity, and developer tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Developer Tools" height="18" />
 - **Fun fact:** I build useful products, usually with terrible coffee nearby ☕
-
-<!-- Tech Stack Section -->
 
 ## 🛠️ Technology Arsenal
 
