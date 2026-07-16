@@ -25,22 +25,21 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/ascii-portrait-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="./assets/ascii-portrait-light.svg"
-  />
-  <img
-    align="right"
-    src="./assets/ascii-portrait-light.svg"
-    alt="ASCII portrait of Alexander Potiagalov"
-    width="220"
-  />
-</picture>
+<!-- White ASCII portrait: dark GitHub theme only -->
+<img
+  align="right"
+  src="./assets/ascii-portrait-dark.svg#gh-dark-mode-only"
+  alt="ASCII portrait of Alexander Potiagalov"
+  width="220"
+/>
+
+<!-- Black ASCII portrait: light GitHub theme only -->
+<img
+  align="right"
+  src="./assets/ascii-portrait-light.svg#gh-light-mode-only"
+  alt="ASCII portrait of Alexander Potiagalov"
+  width="220"
+/>
 
 - **Incoming:** AI Software Engineer Co-op @ **Solidigm** <img src="https://d21buns5ku92am.cloudfront.net/69634/images/448438-solidigm-bug-logo-full-color-rgb-1000px%4072ppi-2624b9-original-1666306550.png" alt="Solidigm" height="18" />
 - **Building:** Founding Engineer / Software Developer @ **Subtura** <img src="https://www.google.com/s2/favicons?domain=subtura.com&sz=64" alt="Subtura" height="18" />
