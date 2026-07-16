@@ -43,24 +43,24 @@
   />
 </picture>
 
-- 💼 **Incoming:** AI Software Engineer Co-op @ **Solidigm**
-- 🧱 **Building:** Founding Engineer / Software Developer @ **Subtura**
-- 🔎 **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University**
-- 🎓 **Studying:** Computer Science @ **Simon Fraser University**
-- 🧠 **Exploring:** Advanced AI systems, MLOps, and system design
-- ⚙️ **Focused on:** AI engineering, automation, cybersecurity, and developer tools
-- ☕ **Fun fact:** I build useful products, usually with terrible coffee nearby
+- **Incoming:** AI Software Engineer Co-op @ **Solidigm** <img src="https://d21buns5ku92am.cloudfront.net/69634/images/448438-solidigm-bug-logo-full-color-rgb-1000px%4072ppi-2624b9-original-1666306550.png" alt="Solidigm" height="18" />
+- **Building:** Founding Engineer / Software Developer @ **Subtura** <img src="https://www.google.com/s2/favicons?domain=subtura.com&sz=64" alt="Subtura" height="18" />
+- **Researching:** Machine Learning + Cybersecurity @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
+- **Previous:** SDE Intern @ **Fisheries and Oceans Canada (GoC)** <img src="https://flagcdn.com/ca.svg" alt="Canada" height="14" />
+- **Studying:** Computer Science @ **Simon Fraser University** <img src="https://www.google.com/s2/favicons?domain=sfu.ca&sz=64" alt="SFU" height="18" />
+- **Exploring:** Advanced AI systems, MLOps, and system design <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="AI" height="18" />
+- **Focused on:** AI engineering, automation, cybersecurity, and developer tools <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Developer Tools" height="18" />
+- **Fun fact:** I build useful products, usually with terrible coffee nearby ☕
 
 <!-- Tech Stack Section -->
 
 ## 🛠️ Technology Arsenal
 
 <details open>
-<summary><b>Languages & Frameworks</b></summary>
+<summary><b>Languages</b></summary>
 <br>
 <div align="center">
 
-<!-- Programming Languages -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -98,12 +98,23 @@
   </tr>
 </table>
 
-<!-- Frameworks & Libraries -->
+</div>
+</details>
+
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br>
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
       <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65"/>
+      <br>Next.js
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/>
@@ -114,10 +125,6 @@
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65"/>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65"/>
       <br>FastAPI
     </td>
@@ -126,12 +133,12 @@
       <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65"/>
-      <br>TensorFlow
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="65" height="65"/>
+      <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65"/>
-      <br>OpenCV
+      <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer Motion" width="65" height="65"/>
+      <br>Framer
     </td>
   </tr>
 </table>
@@ -140,36 +147,46 @@
 </details>
 
 <details open>
-<summary><b>APIs & Integrations</b></summary>
+<summary><b>Machine Learning & AI</b></summary>
 <br>
 <div align="center">
 
-```mermaid
-graph TD
-    A[APIs & Integrations] --> B[AI Models]
-    A --> C[Payment Systems]
-    A --> D[Data Services]
-
-    B --> B1[OpenAI API]
-    B --> B2[Google Gemini]
-    B --> B3[Vapi SDK]
-
-    C --> C1[PayPal API]
-
-    D --> D1[REST APIs]
-    D --> D2[JSearch API]
-    D --> D3[Yfinance]
-    D --> D4[FMP API]
-    D --> D5[WhoisXML API]
-    D --> D6[Google Safe Browsing API]
-    D --> D7[Firebase]
-
-    classDef apiNode fill:#3498db,stroke:#2980b9,stroke-width:2px,color:white;
-    class B,C,D apiNode;
-
-    classDef serviceNode fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:white;
-    class B1,B2,B3,C1,D1,D2,D3,D4,D5,D6,D7 serviceNode;
-```
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="65" height="65"/>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/>
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65"/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65"/>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65"/>
+      <br>Jupyter
+    </td>
+  </tr>
+</table>
 
 </div>
 </details>
@@ -210,15 +227,46 @@ graph TD
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65"/>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" width="65" height="65"/>
       <br>Azure
     </td>
   </tr>
 </table>
+
+</div>
+</details>
+
+<details open>
+<summary><b>APIs & Integrations</b></summary>
+<br>
+<div align="center">
+
+```mermaid
+graph TD
+    A[APIs & Integrations] --> B[AI Models]
+    A --> C[Payment Systems]
+    A --> D[Data Services]
+
+    B --> B1[OpenAI API]
+    B --> B2[Google Gemini]
+    B --> B3[Vapi SDK]
+
+    C --> C1[PayPal API]
+
+    D --> D1[REST APIs]
+    D --> D2[JSearch API]
+    D --> D3[Yfinance]
+    D --> D4[FMP API]
+    D --> D5[WhoisXML API]
+    D --> D6[Google Safe Browsing API]
+    D --> D7[Firebase]
+
+    classDef apiNode fill:#3498db,stroke:#2980b9,stroke-width:2px,color:white;
+    class B,C,D apiNode;
+
+    classDef serviceNode fill:#2ecc71,stroke:#27ae60,stroke-width:2px,color:white;
+    class B1,B2,B3,C1,D1,D2,D3,D4,D5,D6,D7 serviceNode;
+```
 
 </div>
 </details>
