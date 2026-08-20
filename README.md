@@ -295,14 +295,14 @@ graph TD
   
   <picture>
     <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE"
+      srcset="https://streak-stats.demolab.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=buefy&hide_border=true"
+      srcset="https://streak-stats.demolab.com/?user=AlexanderPotiagalov&theme=buefy&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117" width="40%" />
+    <img src="https://streak-stats.demolab.com/?user=AlexanderPotiagalov&theme=tokyonight&hide_border=true&background=0D1117" width="40%" />
   </picture>
 </div>
 
