@@ -25,18 +25,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-<!-- White ASCII portrait: dark GitHub theme only -->
 <img
   align="right"
-  src="./assets/ascii-portrait-light.svg#gh-dark-mode-only"
-  alt="ASCII portrait of Alexander Potiagalov"
-  width="210"
-/>
-
-<!-- Light GitHub theme: use the BLACK-character SVG -->
-<img
-  align="right"
-  src="./assets/ascii-portrait-dark.svg#gh-light-mode-only"
+  src="assets/Vancouver_Waterfront_Avatar_Portrait-removebg-preview.png"
   alt="ASCII portrait of Alexander Potiagalov"
   width="210"
 />
